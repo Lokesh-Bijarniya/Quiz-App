@@ -1,0 +1,9 @@
+.app {
+  border: 1px solid black;
+  height: 70vh;
+  width: 60vw;
+  margin: auto;
+  margin-top: 15vh;
+  background-color: rgb(228, 228, 220);
+  border-radius: 10px;
+}

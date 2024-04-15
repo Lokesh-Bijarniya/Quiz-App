@@ -1,0 +1,35 @@
+.btn {
+  height: 6vh;
+  font-size: large;
+  border-radius: 10px;
+  border: 0;
+  cursor: pointer;
+  width: 15vw;
+
+  background-image: linear-gradient(
+    to right,
+    #314755 0%,
+    #26a0da 51%,
+    #314755 100%
+  );
+  /* margin: 5vw; */
+  /* padding: 10px; */
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  display: block;
+}
+
+.btn:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+a{
+  text-decoration: none;
+}

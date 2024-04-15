@@ -1,0 +1,57 @@
+.head {
+  text-align: center;
+  font-family: serif;
+}
+.quizBody {
+  height: 50vh;
+  width: 40vw;
+  margin: 8vh;
+  margin-left: 10vw;
+  text-align: center;
+  background: rgb(238, 174, 202);
+  background: radial-gradient(
+    circle,
+    rgba(238, 174, 202, 1) 0%,
+    rgba(148, 187, 233, 1) 100%
+  );
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px rgb(175, 173, 173);
+}
+.inpt {
+  height: 5vh;
+  width: 25vw;
+  margin-top: 8vh;
+  font-size: 25px;
+  border-radius: 10px;
+  border: 0;
+  padding: 6px;
+}
+.select {
+  margin-top: 5vh;
+  /* width: 18vw; */
+}
+.btn {
+  margin-top: 5vh;
+}
+.btn button {
+  padding: 10px;
+  border: 0;
+  width: 13vw;
+  cursor: pointer;
+  border-radius: 10px;
+  font-size: x-large;
+  color: azure;
+  background: #4b79a1;
+  background: -webkit-linear-gradient(to bottom, #283e51, #4b79a1);
+  background: linear-gradient(to bottom, #283e51, #4b79a1);
+}
+.condition {
+  margin-top: 3vh;
+  margin-right: 4vw;
+}
+
+.error {
+  color: red;
+  margin: 10px;
+  font-size: large;
+}

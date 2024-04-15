@@ -1,0 +1,8 @@
+.select {
+  height: 4vh;
+  width: 15vw;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: #fff;
+  font-size: 20px;
+}
