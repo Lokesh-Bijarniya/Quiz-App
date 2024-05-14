@@ -1,6 +1,7 @@
 .head {
   display: flex;
   justify-content: space-between;
+  color: aliceblue;
 }
 
 .head button {
@@ -22,7 +23,9 @@ h2 {
   margin: 20px 0 5px 20px;
 }
 .marking {
-  margin-left: 120px;
+  margin-left: 140px;
+  color: rgb(233, 245, 6);
+  font-weight: 700;
 }
 .ques {
   height: 80.5%;

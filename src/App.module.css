@@ -4,6 +4,8 @@
   width: 60vw;
   margin: auto;
   margin-top: 15vh;
-  background-color: rgb(228, 228, 220);
+  background-image: url("https://t3.ftcdn.net/jpg/07/43/83/34/240_F_743833483_4c8nDUBVXG3dI2uPQByqQzMYZGwkG6J3.jpg");
+  background-size: cover;
   border-radius: 10px;
+
 }

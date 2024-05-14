@@ -1,6 +1,7 @@
 .head {
   text-align: center;
   font-family: serif;
+  color: whitesmoke;
 }
 .quizBody {
   height: 50vh;
@@ -8,14 +9,16 @@
   margin: 8vh;
   margin-left: 10vw;
   text-align: center;
-  background: rgb(238, 174, 202);
+  /* background: rgb(238, 174, 202);
   background: radial-gradient(
     circle,
     rgba(238, 174, 202, 1) 0%,
     rgba(148, 187, 233, 1) 100%
-  );
+  ); */
   border-radius: 10px;
   box-shadow: 1px 1px 10px rgb(175, 173, 173);
+  background-image: url("https://t3.ftcdn.net/jpg/04/93/55/02/240_F_493550285_rjyh6cD3XvHfsBNclOlL8IGkg1Gb85Yx.jpg");
+  background-size:cover;
 }
 .inpt {
   height: 5vh;
